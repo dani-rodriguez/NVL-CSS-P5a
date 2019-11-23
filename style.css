@@ -1,0 +1,6 @@
+div{
+	background: yellow;width: 350px;height: 250px;
+	padding-left: 32px;padding-top: 32px; padding-bottom: 32px;padding-right: 32px;
+	border:red 16px solid;
+	margin-left: 10px;margin-top: 10px;margin-right: 10px;margin-bottom: 10px;
+	}
